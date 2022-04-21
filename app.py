@@ -9,6 +9,7 @@ import json
 
 import sendmail
 
+#Just a comment to see if a build is triggered
 
 # def get_categories():
 #     with open('categories.json') as c:
